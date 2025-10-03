@@ -119,7 +119,7 @@ Material UI Validé Interface claire et responsive
 ESLint Validé Code propre et conforme au linter
 Auteur
 
-Jonathan Georges
-Étudiant en 4e année à l’ESGI
+Georges Jonathan
+Étudiant en 4e année
 Développeur Fullstack
 GitHub : DarkSun001
